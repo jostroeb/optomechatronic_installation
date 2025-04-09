@@ -1,4 +1,4 @@
-This project is about an opto-mechatronic light installation.
+This project is an opto-mechatronic light installation.
 
 The electronics design is fully calculated and the PCB is ordered.
 Further contents to be added.
