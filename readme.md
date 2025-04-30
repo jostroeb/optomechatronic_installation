@@ -1,4 +1,4 @@
-This project is an opto-mechatronic light installation.
+This project is an opto-mechatronic light installation. (Read below!!)
 
 First test run:
 
