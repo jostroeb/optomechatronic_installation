@@ -22,7 +22,7 @@ I fully hand soldered the PCBs.
 The mechanics feature a part rotating at 2000 rpm holding the mirror. Thus the part is optimized for high Eigenvalues for maximum stiffness. The small mirror is both glued and held by a compliant mechanism. The mechanism is self locking during rotation. 
 Most parts were 3D-printed using MJF. Tolerances are on point to center the LASER module in the optical axis of the parabolic mirror.
 
-LASER saftey was the major concern in this project. A lot of parts are redunant in saftey, especially the beam blockers around the LASER module.
+LASER saftey was the major concern in this project. A lot of parts are redunant in saftey, especially the beam blockers around the LASER module. It features a saftey turnoff button.
 
 Further contents to be added very soon. The prototype is up and running.
 The provided documentation is only a 
