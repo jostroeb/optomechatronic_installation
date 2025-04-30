@@ -1,6 +1,7 @@
 This project is an opto-mechatronic light installation.
 
 First test run:
+
 ![image](https://github.com/user-attachments/assets/0adff077-f821-480f-be3b-6431396733e1)
 
 It is based on a parabolic mirror originating from a military application.
